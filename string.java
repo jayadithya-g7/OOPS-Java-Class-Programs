@@ -45,5 +45,8 @@ class Main{
 
 
         //note strings are immutable in java
+        //hello
+
+        //hi
 
         
