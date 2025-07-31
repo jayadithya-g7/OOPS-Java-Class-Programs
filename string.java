@@ -45,8 +45,6 @@ class Main{
 
 
         //note strings are immutable in java
-        //hello
-
-        //hi
+        // StringBuilder is used to create mutable strings
 
         
